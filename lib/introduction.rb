@@ -1,4 +1,4 @@
-name = "Dan"
+name = "Josh"
 language = "Ember.js"
 
 def introduction_with_language (name, language)
